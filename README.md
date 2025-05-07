@@ -40,6 +40,10 @@ Bonus:
 
 ### Resources
 
+#### Video of naive vs RAG informed Content Generation
+
+<https://youtu.be/rDl6zrRtDyE>
+
 #### Sample code
 
 <https://github.com/maxynrl/KnitTogetherReference/blob/main/antitransRAG-KT.py>
